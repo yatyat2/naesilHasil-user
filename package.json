@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/yatyat2/naesilHasil-user/issues"
   },
-  "homepage": "https://github.com/yatyat2/naesilHasil-user#readme"
+  "homepage": "https://github.com/yatyat2/naesilHasil-user#readme",
+  "dependencies": {
+    "@types/node": "^14.14.37",
+    "@types/react": "^17.0.3",
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.2.4"
+  }
 }
